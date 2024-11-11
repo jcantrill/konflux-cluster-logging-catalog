@@ -1,0 +1,176 @@
+{
+    "schema": "olm.template.basic",
+    "entries": [
+        {
+            "defaultChannel": "stable-6.0",
+            "icon": {
+                "base64data": "PHN2ZyBpZD0iYWZiNDE1NDktYzU3MC00OWI3LTg1Y2QtNjU3NjAwZWRmMmUxIiBkYXRhLW5hbWU9IkxheWVyIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDcyMS4xNSA3MjEuMTUiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuYTQ0OGZkZWEtNGE0Yy00Njc4LTk3NmEtYzM3ODUzMDhhZTA2IHsKICAgICAgICBmaWxsOiAjZGIzOTI3OwogICAgICB9CgogICAgICAuZTEzMzA4YjgtNzQ4NS00Y2IwLTk3NjUtOGE1N2I5M2Y5MWE2IHsKICAgICAgICBmaWxsOiAjY2IzNzI4OwogICAgICB9CgogICAgICAuZTc3Mjg2ZjEtMjJkYS00NGQxLThlZmItMWQxNGIwY2NhZTYyIHsKICAgICAgICBmaWxsOiAjZmZmOwogICAgICB9CgogICAgICAuYTA0MjBjYWMtZWJlNi00YzE4LWI5ODEtYWJiYTBiYTliMzY1IHsKICAgICAgICBmaWxsOiAjZTVlNWU0OwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8Y2lyY2xlIGNsYXNzPSJhNDQ4ZmRlYS00YTRjLTQ2NzgtOTc2YS1jMzc4NTMwOGFlMDYiIGN4PSIzNjAuNTgiIGN5PSIzNjAuNTgiIHI9IjM1OC4yOCIvPgogIDxwYXRoIGNsYXNzPSJlMTMzMDhiOC03NDg1LTRjYjAtOTc2NS04YTU3YjkzZjkxYTYiIGQ9Ik02MTMuNTQsMTA3LjMsMTA2Ljg4LDYxNGMxNDAsMTM4LjUxLDM2NS44MiwxMzguMDYsNTA1LjI2LTEuMzlTNzUyLDI0Ny4zMyw2MTMuNTQsMTA3LjNaIi8+CiAgPGc+CiAgICA8Y2lyY2xlIGNsYXNzPSJlNzcyODZmMS0yMmRhLTQ0ZDEtOGVmYi0xZDE0YjBjY2FlNjIiIGN4PSIyMzQuNyIgY3k9IjM1Ny4zIiByPSI0Ny43MiIvPgogICAgPGNpcmNsZSBjbGFzcz0iZTc3Mjg2ZjEtMjJkYS00NGQxLThlZmItMWQxNGIwY2NhZTYyIiBjeD0iMjM0LjciIGN5PSIxODIuOTQiIHI9IjQ3LjcyIi8+CiAgICA8Y2lyY2xlIGNsYXNzPSJlNzcyODZmMS0yMmRhLTQ0ZDEtOGVmYi0xZDE0YjBjY2FlNjIiIGN4PSIyMzQuNyIgY3k9IjUzOC4yMSIgcj0iNDcuNzIiLz4KICA8L2c+CiAgPHBvbHlnb24gY2xhc3M9ImU3NzI4NmYxLTIyZGEtNDRkMS04ZWZiLTFkMTRiMGNjYWU2MiIgcG9pbnRzPSI0MzUuMTkgMzQ3LjMgMzkwLjU0IDM0Ny4zIDM5MC41NCAxNzIuOTQgMzE2LjE2IDE3Mi45NCAzMTYuMTYgMTkyLjk0IDM3MC41NCAxOTIuOTQgMzcwLjU0IDM0Ny4zIDMxNi4xNiAzNDcuMyAzMTYuMTYgMzY3LjMgMzcwLjU0IDM2Ny4zIDM3MC41NCA1MjEuNjcgMzE2LjE2IDUyMS42NyAzMTYuMTYgNTQxLjY3IDM5MC41NCA1NDEuNjcgMzkwLjU0IDM2Ny4zIDQzNS4xOSAzNjcuMyA0MzUuMTkgMzQ3LjMiLz4KICA8cG9seWdvbiBjbGFzcz0iZTc3Mjg2ZjEtMjJkYS00NGQxLThlZmItMWQxNGIwY2NhZTYyIiBwb2ludHM9IjU5OS43NCAzMTcuMDMgNTU3Ljk3IDMxNy4wMyA1NTAuOTcgMzE3LjAzIDU1MC45NyAzMTAuMDMgNTUwLjk3IDI2OC4yNiA1NTAuOTcgMjY4LjI2IDQ2NC4zNiAyNjguMjYgNDY0LjM2IDQ0Ni4zNCA1OTkuNzQgNDQ2LjM0IDU5OS43NCAzMTcuMDMgNTk5Ljc0IDMxNy4wMyIvPgogIDxwb2x5Z29uIGNsYXNzPSJhMDQyMGNhYy1lYmU2LTRjMTgtYjk4MS1hYmJhMGJhOWIzNjUiIHBvaW50cz0iNTk5Ljc0IDMxMC4wMyA1NTcuOTcgMjY4LjI2IDU1Ny45NyAzMTAuMDMgNTk5Ljc0IDMxMC4wMyIvPgo8L3N2Zz4K",
+                "mediatype": "image/svg+xml"
+            },
+            "name": "loki-operator",
+            "schema": "olm.package"
+        },
+        {
+            "entries": [
+                {
+                    "name": "loki-operator.v5.9.0",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.0"
+                },
+                {
+                    "name": "loki-operator.v5.9.1",
+                    "replaces": "loki-operator.v5.9.0",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.1"
+                },
+                {
+                    "name": "loki-operator.v5.9.2",
+                    "replaces": "loki-operator.v5.9.1",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.2"
+                },
+                {
+                    "name": "loki-operator.v5.9.3",
+                    "replaces": "loki-operator.v5.9.2",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.3"
+                },
+                {
+                    "name": "loki-operator.v5.9.4",
+                    "replaces": "loki-operator.v5.9.3",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.4"
+                },
+                {
+                    "name": "loki-operator.v5.9.5",
+                    "replaces": "loki-operator.v5.9.4",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.5"
+                },
+                {
+                    "name": "loki-operator.v5.9.6",
+                    "replaces": "loki-operator.v5.9.5",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.6"
+                },
+                {
+                    "name": "loki-operator.v5.9.7",
+                    "replaces": "loki-operator.v5.9.6",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.7"
+                },
+                {
+                    "name": "loki-operator.v5.9.8",
+                    "replaces": "loki-operator.v5.9.7",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.8"
+                }
+            ],
+            "name": "stable",
+            "package": "loki-operator",
+            "schema": "olm.channel"
+        },
+        {
+            "entries": [
+                {
+                    "name": "loki-operator.v5.9.0",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.0"
+                },
+                {
+                    "name": "loki-operator.v5.9.1",
+                    "replaces": "loki-operator.v5.9.0",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.1"
+                },
+                {
+                    "name": "loki-operator.v5.9.2",
+                    "replaces": "loki-operator.v5.9.1",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.2"
+                },
+                {
+                    "name": "loki-operator.v5.9.3",
+                    "replaces": "loki-operator.v5.9.2",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.3"
+                },
+                {
+                    "name": "loki-operator.v5.9.4",
+                    "replaces": "loki-operator.v5.9.3",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.4"
+                },
+                {
+                    "name": "loki-operator.v5.9.5",
+                    "replaces": "loki-operator.v5.9.4",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.5"
+                },
+                {
+                    "name": "loki-operator.v5.9.6",
+                    "replaces": "loki-operator.v5.9.5",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.6"
+                },
+                {
+                    "name": "loki-operator.v5.9.7",
+                    "replaces": "loki-operator.v5.9.6",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.7"
+                },
+                {
+                    "name": "loki-operator.v5.9.8",
+                    "replaces": "loki-operator.v5.9.7",
+                    "skipRange": "\u003e=5.7.0-0 \u003c5.9.8"
+                }
+            ],
+            "name": "stable-5.9",
+            "package": "loki-operator",
+            "schema": "olm.channel"
+        },
+        {
+            "entries": [
+                {
+                    "name": "loki-operator.v6.0.0",
+                    "skipRange": "\u003e=5.8.0-0 \u003c6.0.0"
+                },
+                {
+                    "name": "loki-operator.v6.0.1",
+                    "replaces": "loki-operator.v6.0.0",
+                    "skipRange": "\u003e=5.8.0-0 \u003c6.0.1"
+                }
+            ],
+            "name": "stable-6.0",
+            "package": "loki-operator",
+            "schema": "olm.channel"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:0e2d82d572d5344f90cb6e5234bccace228ff3e183161822f25c807a0b14c32b"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:9fb6e7902d07e07c361fe59701f47afc59738c5e79fb284b48a871396a32b611"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:68dd8394cf3f44d9827cb7b8976044e23d92349262334c8def4b2d15cde7a8e3"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:81efd7d304414a7fc57c715586ebff7d0b39d29edd122622ba9de82920948041"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:11b5e9c4e2f69cf131f734dbd9f1ec1b9926aaf9a691c2c4d8ed70e41fd6f820"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:22c653b9b8a4bdf33fe17ed76e542c97519fc6e81b235f0fd506d9a14f5234c0"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:76ddb9f56971649a52d0b66fa8a2df3859f7a4e9f965ee64cf1bd81a94b72d56"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:a0f8da449df26650a1b5f0e756c91970702158fd4336c5c8b6bbef68d944eed1"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:635a99a38954862df3bd924bbfea8906726f58c066b8d3c2b46a62fca5a89b0d"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:79bf78d9dd406f0ca2235d88e1c462ed9c17e6160c59c6688a78a3883d32a34a"
+        },
+        {
+            "schema": "olm.bundle",
+            "image": "registry.redhat.io/openshift-logging/loki-operator-bundle@sha256:69164d3ced0bda5f4c1f48a292c891bf6629ea02f5e6262234c7574a0a201e1b"
+        }
+    ]
+}

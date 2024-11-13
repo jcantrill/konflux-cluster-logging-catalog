@@ -27,7 +27,7 @@ spec:
   - name: image-expires-after
     value: 5d
   - name: dockerfile
-    value: v4.16/cluster-logging-Dockerfile
+    value: v4.16/cluster-logging/Dockerfile
   pipelineSpec:
     description: |
       This pipeline is ideal for building and verifying [file-based catalogs](https://konflux-ci.dev/docs/advanced-how-tos/building-olm.adoc#building-the-file-based-catalog).

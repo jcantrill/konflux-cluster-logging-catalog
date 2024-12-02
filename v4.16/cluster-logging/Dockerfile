@@ -1,5 +1,5 @@
 # The base image is expected to contain /bin/opm (with a serve subcommand) and /bin/grpc_health_probe
-FROM quay.io/openshift/origin-operator-registry:4.16
+FROM quay.io/openshift/origin-operator-registry:4.20
 
 ENTRYPOINT ["/bin/opm"]
 CMD ["serve", "/configs", "--cache-dir=/tmp/cache"]
